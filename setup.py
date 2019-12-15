@@ -11,7 +11,7 @@ with open('requirements.txt') as requirements_file:
 
 setup(
     name="azurectx",
-    version="0.0.1",
+    version="0.0.2",
     author="Drew Stinnett",
     author_email="drew@drewlink.com",
     description=("Switch between default Azure subscriptions"),
