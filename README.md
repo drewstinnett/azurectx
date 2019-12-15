@@ -3,6 +3,12 @@
 Script for switching Azure Contexts (Default subscription).  Inspired by the
 awesomeness of [kubectx](https://github.com/ahmetb/kubectx)
 
+## Installation
+
+```
+pip3 install azurectx
+```
+
 ## Usage
 
 Run without any arguments to bring up a prompt
