@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please use [azurectx-go](https://github.com/drewstinnett/azurectx-go) instead
+
 # azurectx
 
 Script for switching Azure Contexts (Default subscription).  Inspired by the
